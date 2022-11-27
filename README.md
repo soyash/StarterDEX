@@ -1,2 +1,2 @@
 # StarterDEX
-Started solidity DEX
+Starter solidity DEX
